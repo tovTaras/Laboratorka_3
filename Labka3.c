@@ -26,7 +26,7 @@ int main() {
         for (j = 0; j < m; j++) {
 
             if (a[i] == b[j]) {
-                printf("%d ", a[i]);
+                printf("%d", a[i]);
             }
         }
     }
